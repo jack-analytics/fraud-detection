@@ -109,14 +109,15 @@ fraud-detection-ml/
 ├── README.md
 └── main.py
 
-Aplicação no Mundo Real
+
+### Aplicação no Mundo Real
 A detecção de fraudes é uma das aplicações mais importantes de Machine Learning no setor financeiro. Bancos, fintechs e adquirentes utilizam modelos semelhantes a este para bloqueios preventivos de cartões, monitorização em tempo real e apoio a sistemas de gestão de risco e compliance, reduzindo drasticamente perdas financeiras.
 
-Autor
-Jackelinne Rodrigues
+**Autor**
+*Jackelinne Rodrigues*
 
-MBA em Neurociência, Marketing e Consumo
+*MBA em Neurociência, Marketing e Consumo*
 
-Analista de Mercado & Growth Intelligence
+*Analista de Mercado & Growth Intelligence*
 
-Especialista em análise de dados, inteligência de mercado e aplicação de dados para suporte à tomada de decisão estratégica.
+*Especialista em análise de dados, inteligência de mercado e aplicação de dados para suporte à tomada de decisão estratégica.*
